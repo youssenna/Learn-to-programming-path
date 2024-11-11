@@ -3,8 +3,6 @@
 
 using namespace std;
 
-enum en_characterType {smallLetter = 1, capitalLetter = 2, specialCaracter = 3, digit = 4};
-
 int ft_RandomNumber(int from, int to) {
     int rendomNumber = rand() % (to - from + 1) + from;
     return rendomNumber;
