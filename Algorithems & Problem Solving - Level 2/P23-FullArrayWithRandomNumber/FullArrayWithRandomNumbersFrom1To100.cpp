@@ -38,8 +38,9 @@ void ft_printArray(int arry[100], int lenth) {
 }
 
 int main() {
+    srand((unsigned)time(NULL));
     int array[100], length;
-    length = ft_ReadPositifNumber("Eter positf number: ");
+    length = ft_ReadPositifNumber("Enter positf number: ");
     
     ft_FillArrayElements(array,length);
     ft_printArray(array, length);
