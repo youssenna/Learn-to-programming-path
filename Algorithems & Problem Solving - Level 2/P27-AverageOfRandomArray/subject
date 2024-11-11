@@ -1,0 +1,11 @@
+Write a program to fill array with max size 100 with random number 
+from 1 to 100 then print average of all numbers
+
+Input:
+5
+
+Output:
+
+Arrat Elemment: 17 54 91 65 46 70 68 36 65 41 
+
+Average of all number is: 55
