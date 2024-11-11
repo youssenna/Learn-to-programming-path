@@ -1,0 +1,25 @@
+Write a program to read N elements and store them in array then print all array elements
+and ask for a number to check, then print how many number a certaine element repeated in 
+that array
+
+input:
+8
+
+Output:
+
+enter element of array 
+enter element [1] : 1       
+enter element [2] : 2
+enter element [3] : 2
+enter element [4] : 23
+enter element [5] : 3
+enter element [6] : 4
+enter element [7] : 23
+enter element [8] : 23
+
+enter number who you went to check : 23
+
+Output:
+
+Original array: 1 2 2 23 3 4 23 23 
+23 is repeted 3 time(s)
