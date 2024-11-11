@@ -1,0 +1,11 @@
+Write a program to fill array with max size 100 with random number 
+from 1 to 100 then print max
+
+Input:
+14
+
+Output:
+
+Arrat Elemment: 14 7 91 61 34 57 15 45 19 53 
+
+Min number is: 7
