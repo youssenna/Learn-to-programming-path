@@ -45,8 +45,8 @@ int ft_SumOfAllNumberArray(int array[100], int length) {
     return sum;
 }
 
-int ft_AverageofArray(int sum, int arraylength) {
-    return sum / arraylength;
+int ft_AverageofArray(int array[100], int arraylength) {
+    return ft_SumOfAllNumberArray(array, arraylength) / arraylength;
 }
 
 int main() {
@@ -57,6 +57,6 @@ int main() {
     ft_FillArrayElements(array,length);
     ft_printArray(array, length);
     
-    cout << "\nAverage of all number is: " << ft_AverageofArray(ft_SumOfAllNumberArray(array, length),length) << endl;
+    cout << "\nAverage of all number is: " << ft_AverageofArray(array,length) << endl;
     return 0;
 }
