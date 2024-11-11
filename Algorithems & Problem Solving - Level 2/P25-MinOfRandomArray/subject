@@ -1,5 +1,5 @@
 Write a program to fill array with max size 100 with random number 
-from 1 to 100 then print max
+from 1 to 100 then print min
 
 Input:
 14
