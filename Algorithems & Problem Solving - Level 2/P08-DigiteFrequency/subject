@@ -1,0 +1,11 @@
+Write a program read digit and number. then prinrt
+digit frequancy in that number
+
+Input:
+
+1223222
+2
+
+Output:
+
+digit 2 frequancy is 5 Time.

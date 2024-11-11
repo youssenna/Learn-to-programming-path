@@ -1,0 +1,11 @@
+Write a program to read a number and check it is Palindrom.
+Palindrom number it is the number that reads the same fro, right to left.
+
+Input:
+1234
+12321
+
+Output:
+
+No, it is not a Palindrom numbers.
+yes, it is a Palindrom numbers.

@@ -1,0 +1,9 @@
+Write a program print all prime number from 1 to N :
+
+Input : 10
+Output:
+1
+2
+3
+5
+7

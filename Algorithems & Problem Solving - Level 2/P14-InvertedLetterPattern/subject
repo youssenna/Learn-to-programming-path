@@ -1,0 +1,20 @@
+Write a program to read a number and print inverted letter as flow?
+
+input:
+5
+
+Output:
+EEEEE
+DDDD
+CCC
+BB
+A
+Input:
+4
+
+Output:
+
+DDDD
+CCC
+BB
+A

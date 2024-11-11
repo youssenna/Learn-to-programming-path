@@ -1,0 +1,17 @@
+Write a programe to Guest a 3-letter Password (all capitalise)
+
+Input:
+
+AAF
+
+Output:
+
+Trial [1] : AAA
+Trial [2] : AAB
+Trial [3] : AAC
+Trial [4] : AAD
+Trial [5] : AAE
+Trial [6] : AAF
+
+Passwors is  : AAF
+found it after 6 Trial(s)

@@ -1,0 +1,21 @@
+Write a program to read how many keys to generate and print
+them on the screen
+
+Input:
+
+12
+
+Output:
+
+key [1] : KEHS-PBPC-OLLG-WPGL
+key [2] : ZXYJ-TRKX-EBAT-YAQK
+key [3] : GYDV-ZSXP-GLXE-ADPZ
+key [4] : DPKY-GUWM-XWFW-XYGD
+key [5] : YLBX-GAOO-LLSN-RKPW
+key [6] : ZZUI-WQWT-PCPO-CYTA
+key [7] : LUZR-XNFK-AAYT-KPPL
+key [8] : OKVM-CSGR-UXHY-XBYJ
+key [9] : XZCU-MIHO-KFIU-WXHK
+key [10] : JDXM-VFFR-CPPA-QNJP
+key [11] : MLMA-VTQF-AYBW-YJIH
+key [12] : MHVJ-MDAP-SPRI-ECZS

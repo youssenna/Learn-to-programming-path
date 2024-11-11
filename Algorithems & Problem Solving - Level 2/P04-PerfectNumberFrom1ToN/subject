@@ -1,0 +1,12 @@
+Write programe print perfect number from 1 to N
+Note : perfect number = sum(all divisor)
+
+Input:
+
+500
+
+Output:
+
+6
+28
+496

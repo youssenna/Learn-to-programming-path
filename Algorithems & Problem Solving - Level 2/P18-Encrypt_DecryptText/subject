@@ -1,0 +1,11 @@
+Write a program to read a text and encypt it and descrypt it
+
+Input :
+
+youssef
+
+Output:
+
+Text befor encripted : youssef
+Text after encripted : {qwuugh
+Text after decripted : youssef

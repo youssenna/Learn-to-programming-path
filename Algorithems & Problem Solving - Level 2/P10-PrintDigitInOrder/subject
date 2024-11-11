@@ -1,0 +1,11 @@
+Write a programe to read number and print it in a order from left to right.
+
+Input:
+
+1234
+
+Ouput:
+1
+2
+3
+4

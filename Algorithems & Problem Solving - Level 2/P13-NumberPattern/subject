@@ -1,0 +1,21 @@
+Write a program to read a number and print inverted patern as flow?
+
+input:
+5
+
+Output:
+1
+22
+333
+4444
+55555
+
+Input:
+4
+
+Output:
+
+1
+22
+333
+4444
