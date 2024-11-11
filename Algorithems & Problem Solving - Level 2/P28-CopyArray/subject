@@ -1,0 +1,14 @@
+Write a program to fill array with max size 100 with random number 
+from 1 to 100 then copy it in ather array
+
+Input:
+8
+
+Output:
+
+Array 1 Elemment:
+33 57 99 39 88 9 5 50 
+
+
+Array 2 Elemment after copie:
+33 57 99 39 88 9 5 50 
