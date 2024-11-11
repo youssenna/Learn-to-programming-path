@@ -1,0 +1,11 @@
+Write a program to fill array with max size 100 with random number 
+from 1 to 100 then print sum of all numbers
+
+Input:
+5
+
+Output:
+
+Arrat Elemment: 20 35 34 100 19 
+
+sum of all number is: 208
