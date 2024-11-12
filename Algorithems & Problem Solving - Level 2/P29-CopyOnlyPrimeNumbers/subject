@@ -1,0 +1,24 @@
+Write a program to fill array with max size 100 with random number 
+from 1 to 100 then copy only prime number to anther array and print it it 
+
+Input:
+100
+
+Output:
+
+Array 1 Elemments:
+90 49 81 86 1 44 90 36 61 95 
+30 53 55 42 22 31 17 75 90 26
+ 3 52 36 75 99 39 2 28 94 65 
+ 78 35 13 10 21 13 53 62 1 66
+  56 30 70 10 24 91 92 92 18 
+  82 70 20 85 5 94 83 95 95 
+  62 88 59 92 74 23 1 46 87 
+  6 7 87 23 15 69 92 76 92 35 
+  68 35 52 1 4 23 85 60 16 67 
+  54 62 81 93 72 72 19 94 24 64
+   32 29 71 
+
+Array 2 Elemments after copied:
+61 53 31 17 3 2 13 13 53 5 83 59 23 7
+ 23 23 67 19 29 71 
