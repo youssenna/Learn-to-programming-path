@@ -16,6 +16,7 @@ int ft_ReadNbr(string Message) {
 
 enIsPrime ft_chekIsPrimeNbr(int nbr) {
     int i = 2;
+    if (nbr <= 1) return enIsPrime::NotPrime;
     while(i <= nbr/2){
         if (nbr % i == 0)
             return enIsPrime::NotPrime;
