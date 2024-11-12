@@ -1,0 +1,19 @@
+Write a program to fill 2 arrays with max size 100 with random number 
+from 1 to 100, Sum there Elemments in a thires array and print the result
+
+
+Input:
+4
+
+Output:
+
+Enter positf number: 4
+
+Array 1 Elemments:
+7 27 76 9 
+
+Array 2 Elemments:
+6 90 42 57 
+
+Sum of 2 arrays:
+13 117 118 66 
