@@ -37,5 +37,5 @@ void ft_printPrimerNumberFrom1ToN(int nbr) {
 }
 
 int main() {
-    ft_printPrimerNumberFrom1ToN(ft_ReadNbr("enter number : "));
+    ft_printPrimerNumberFrom1ToN(ft_ReadNbr("enter positif number : "));
 }
