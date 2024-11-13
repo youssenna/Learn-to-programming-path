@@ -1,0 +1,13 @@
+Write a program to fill array with max size 100 with random number 
+from 1 to 100 then copy it in ather array and print it in reverse order
+
+Input:
+10
+
+Output:
+
+Array 1 Elemments:
+59 51 98 31 33 74 55 86 41 78 
+
+Array 2 Elemments after copied:
+78 41 86 55 74 33 31 98 51 59 
