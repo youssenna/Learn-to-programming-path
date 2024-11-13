@@ -1,0 +1,20 @@
+write program to dynamically read numbers and save them in an array
+Max size of array is 100, allocate somi-dynamic array lenth.
+
+Output:
+
+Please enter a  number : 12
+Do you want to add more number [0]:No, [1]:Yes: 1
+Please enter a number : 123
+Do you want to add more number [0]:No, [1]:Yes: 1
+Please enter a number : 1234
+Do you want to add more number [0]:No, [1]:Yes: 1
+Please enter a number : 12345
+Do you want to add more number [0]:No, [1]:Yes: 1
+Please enter a number : 54321
+Do you want to add more number [0]:No, [1]:Yes: 1
+Please enter a number : 0
+Do you want to add more number [0]:No, [1]:Yes: 0
+
+Array length:6
+array Element: 12 123 1234 12345 54321 0
