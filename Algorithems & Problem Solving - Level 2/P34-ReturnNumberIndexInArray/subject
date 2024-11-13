@@ -1,0 +1,33 @@
+Write a program to fill array with max size 100 with random number 
+from 1 to 100 ,read number and return its index in array if found otherwise
+return -(
+
+Input:
+10
+
+Output:
+
+Array Elemments:
+90 62 63 83 57 31 26 100 24 78 
+
+Please enter a number to search for:
+31
+
+Number you are looking for is: 31
+The number found at position: 5
+The number found its order: 6
+.....................................
+
+Input:
+10
+
+Output:
+
+Array Elemments:
+3 70 31 6 12 53 97 79 12 51 
+
+Please enter a number to search for:
+1
+
+Number you are looking for is: 1
+The number found at position : -(
