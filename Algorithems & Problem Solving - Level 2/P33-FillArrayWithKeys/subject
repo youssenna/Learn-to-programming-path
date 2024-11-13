@@ -1,0 +1,21 @@
+Write a program to read how many key will to 
+genarate and fill them in array and print them 
+on the screan 
+
+Input:
+12
+
+Output:
+
+Array [0] : KXEL-QWOG-HCVL-REZR
+Array [1] : BJRR-DAIK-WUIJ-QKJC
+Array [2] : KNOC-LEKU-IFHA-MHRP
+Array [3] : SKGV-LPHJ-LQTD-CCGO
+Array [4] : RWSF-AFZI-KHIY-QCOI
+Array [5] : OUFZ-LNLX-FGCJ-KIAB
+Array [6] : ESGE-XIPK-PXIH-BYRQ
+Array [7] : TWRG-LCFS-IICU-QCWX
+Array [8] : WEDU-MSED-SOMT-NDLI
+Array [9] : ADON-HUGS-EKMW-MKTI
+Array [10] : PXED-RKJJ-ZVFO-ZQWB
+Array [11] : VMQD-GWXK-GJJU-WCFL
