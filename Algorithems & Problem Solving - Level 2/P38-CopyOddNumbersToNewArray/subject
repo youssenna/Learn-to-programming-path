@@ -1,0 +1,14 @@
+Write a program to fill array with max size 100 with random number 
+from 1 to 100 then copy only odd number to another array using ft_AddArrayElement
+fonction in the late probleme and print it
+
+Input:
+13
+
+Output:
+
+Array 1 Elemments:
+85 70 82 23 25 22 2 3 10 76 97 64 23 
+
+Array 2 Elemments after copied:
+85 23 25 3 97 23 
