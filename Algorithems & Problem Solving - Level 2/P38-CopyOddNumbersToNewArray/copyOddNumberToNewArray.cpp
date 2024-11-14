@@ -77,7 +77,7 @@ int main() {
 
     ft_CopyOddNumberInArray(array1, array2, array1length, array2Length);
     
-    cout << "\nArray 2 Elemments after copied:\n";
+    cout << "\nArray 2 Elemments odd number:\n";
     ft_printArray(array2, array2Length);
     
     return 0;
