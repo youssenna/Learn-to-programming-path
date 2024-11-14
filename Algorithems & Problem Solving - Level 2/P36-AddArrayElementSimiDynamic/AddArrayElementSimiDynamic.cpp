@@ -16,7 +16,7 @@ bool ft_ReadBoolienNumber(string message) {
     return nbr;
 }
 
-int ft_AddArrayElements(int arrayElement[100], int nbr) {
+int ft_FillArrayElements(int arrayElement[100], int nbr) {
     int i = 0;
     bool addNbr = 1;
     arrayElement[i] = nbr;
@@ -44,7 +44,7 @@ int main() {
     int array[100],
     number = ft_ReadNumber("Please enter a  number : ");
     
-    int arrayLenght = ft_AddArrayElements(array,number);
+    int arrayLenght = ft_FillArrayElements(array,number);
     
     cout << "\nArray length:" << arrayLenght << endl;
     cout << "array Element: ";
