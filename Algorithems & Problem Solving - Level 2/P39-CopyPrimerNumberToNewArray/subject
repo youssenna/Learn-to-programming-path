@@ -1,0 +1,14 @@
+Write a program to fill array with max size 100 with random number 
+from 1 to 100 then copy only primer number to another array using ft_AddArrayElement
+fonction in the late probleme and print it
+
+Input:
+13
+
+Output:
+
+Array 1 Elemments:
+86 53 83 100 43 89 3 10 36 80 38 46 
+
+Array 2 Elemments after copied:
+53 83 43 89 3
