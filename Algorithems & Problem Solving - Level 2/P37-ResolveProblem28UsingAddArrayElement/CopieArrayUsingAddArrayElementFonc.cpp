@@ -41,13 +41,6 @@ int ft_ReadNumber(string message) {
     return nbr;
 }
 
-bool ft_ReadBoolienNumber(string message) {
-    int nbr;
-    cout << message;
-    cin >> nbr;
-    return nbr;
-}
-
 void ft_AddArraElement(int number, int arrayElement[100], int &arrayLength) {
     arrayLength++;
     arrayElement[arrayLength - 1] = number;
