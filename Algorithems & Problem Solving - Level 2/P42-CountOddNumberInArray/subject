@@ -1,0 +1,11 @@
+write a programe to fill array with max size 100 with rondom number from 1 to 100
+the print the count of the odd number.
+
+Input: 
+12
+
+Output:
+
+Array Elemments:
+100 60 96 20 2 8 83 70 7 48 91 95 
+number of odd number is 4
