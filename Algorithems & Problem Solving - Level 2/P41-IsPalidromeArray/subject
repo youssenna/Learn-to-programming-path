@@ -1,0 +1,21 @@
+Write a program to fill array with numbers then check if it is a  palindrome
+or note palindrome array can be read the same from right to left
+and from left to right.
+
+Input:
+
+array length : 6
+
+Output:
+
+enter length of array: 6
+enter number 1 : 10
+enter number 2 : 20
+enter number 3 : 30
+enter number 4 : 30
+enter number 5 : 20
+enter number 6 : 10
+
+Array Elemments: 10 20 30 30 20 10 
+
+Yes, it is a Palindrom Array.
