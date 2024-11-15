@@ -1,0 +1,31 @@
+write program to print floor of number,
+dont use built in floor fonction
+
+Input
+
+12.2
+
+Output:
+
+My floor Resoult : 12
+
+C++ floor Resoult: 12
+____________________________
+||Input:
+
+12.6
+
+Output:
+My floor Resoult : 12
+
+C++ floor Resoult: 12
+____________________________
+||Input:
+
+-12.7
+
+Output:
+
+My floor Resoult : -13
+
+C++ floor Resoult: -13
