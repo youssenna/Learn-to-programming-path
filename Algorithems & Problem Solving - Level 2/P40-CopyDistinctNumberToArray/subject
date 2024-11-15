@@ -1,0 +1,10 @@
+Write a programe to fill array with with numbers, then print distinct 
+to another array.
+
+Outout:
+
+Array 1 Elemments:
+10 10 10 20 20 70 70 70 70 90 
+
+Array 2 distinct elemments:
+10 20 70 90 
