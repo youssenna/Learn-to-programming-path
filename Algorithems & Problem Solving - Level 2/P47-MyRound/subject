@@ -1,0 +1,31 @@
+write program to print round of number,
+dont use built in round fonction
+
+Input
+
+12.2
+
+Output:
+
+My Round Resoult : 12
+
+C++ Round Resoult: 12
+____________________________
+||Input:
+
+12.6
+
+Output:
+My Round Resoult : 13
+
+C++ Round Resoult: 13
+____________________________
+||Input:
+
+-12.7
+
+Output:
+
+My Round Resoult : -13
+
+C++ Round Resoult: -13
