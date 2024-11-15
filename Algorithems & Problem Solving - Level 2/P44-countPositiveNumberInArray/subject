@@ -1,0 +1,12 @@
+write a programe to fill array with max size 100 with rondom number from -100 to 100
+the print the count of the Positive number.
+
+Input: 
+12
+
+Output:
+
+Array Elemments:
+20 20 22 32 -23 20 -83 -64 -55 23 -19 40 
+
+number of Positive number is 7
