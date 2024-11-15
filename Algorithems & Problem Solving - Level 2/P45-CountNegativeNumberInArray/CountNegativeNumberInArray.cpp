@@ -34,13 +34,6 @@ void ft_printArray(int arry[100], int lenth) {
     cout << endl;
 }
 
-int ft_ReadNumber(string message) {
-    int nbr;
-    cout << message;
-    cin >> nbr;
-    return nbr;
-}
-
 int ft_CountNegativeNumberInArray(int arraySource[100], int arraySLength) {
     int i = 0;
     int countOddNumber = 0;
