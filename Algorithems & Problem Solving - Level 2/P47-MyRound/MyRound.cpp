@@ -10,12 +10,6 @@ float ft_ReadNumber(string message) {
     return nbr;
 }
 
-float ft_MyABS(float nbr) {
-    if (nbr >= 0)
-        return nbr;
-    return nbr * -1;
-}
-
 float ft_MyRoundFunction(float nbr) {
     if (nbr > 0){
         if(nbr - (int)nbr < 0.5)
