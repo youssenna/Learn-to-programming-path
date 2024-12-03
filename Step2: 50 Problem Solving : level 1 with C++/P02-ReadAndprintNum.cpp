@@ -1,5 +1,4 @@
 /*
-Copyright© 2022Mohammed Abu-HadhoudMBA, PMOC, PgMP®, PMP®, PMI-RMP®, CM, ITILF, MCPD, MCSD26+ years of experienceProblem #2
 Write a program to ask the use to enter his/her name and print it on screen
 */
 #include <iostream>
