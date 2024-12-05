@@ -1,0 +1,12 @@
+Write a program to fill two 3x3 matrix with random numbers
+and them, then, Write a function to sum all numbers in this 
+matrix and print it.
+
+Output:
+
+Matrix1:
+03    04    08    
+10    02    01    
+01    10    10    
+
+Sum of Matrix is: 49
