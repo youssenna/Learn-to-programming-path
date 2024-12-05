@@ -1,0 +1,20 @@
+Write a program to fill two 3x3 matrix with random numbers
+and them, mulriplay them into a 3rd matrix and print it.
+
+Output:
+
+
+Matrix1:
+007    007    003    
+001    009    008    
+001    007    010    
+
+Matrix2:
+010    006    010    
+010    005    006    
+006    006    007    
+
+Results:
+070    042    030    
+010    045    048    
+006    042    070    
