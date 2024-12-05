@@ -1,0 +1,14 @@
+Write a program to fill a 3x3 matrix with random numbers,
+then print each row sum:
+
+Output:
+
+The following is a 3x3 random matrix:
+    87        96        28    
+    25        32        20    
+    55        55        85    
+
+The Following are the sum of each row in the matrix:
+Row 1 Sum = 211
+Row 2 Sum = 77
+Row 3 Sum = 195
