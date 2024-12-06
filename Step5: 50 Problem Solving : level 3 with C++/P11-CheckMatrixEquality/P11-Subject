@@ -1,0 +1,20 @@
+Write a program to compare two matrices and check if they are equal ir not
+
+Output:
+
+
+Matrix1:
+01    08    02    
+10    01    03    
+05    09    02    
+
+Sum of Matrix is: 41
+
+Matrix2:
+03    10    07    
+05    06    02    
+10    06    07    
+
+Sum of Matrix is: 56
+
+No: matrixes are Not equal.
