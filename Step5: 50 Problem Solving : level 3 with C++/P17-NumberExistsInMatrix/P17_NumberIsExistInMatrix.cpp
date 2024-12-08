@@ -41,7 +41,7 @@ void ft_Print_3x3_Matrix(int matrix[3][3], short Row, short Columns) {
     }
 }
 
-bool ft_countNumberInMatrix(int matrix[3][3], short Row, short Col, int NumberToSearsh) {
+bool ft_NumberIsExsistInMatrix(int matrix[3][3], short Row, short Col, int NumberToSearsh) {
     int i = 0;
     int j = 0;
     while (i < Row) {
@@ -71,7 +71,7 @@ int main() {
     cout << "\nEnter the number to look for in matrix: ";
     cin >> NumberToSearsh;
 
-    if (ft_countNumberInMatrix(matrix, 3, 3, NumberToSearsh))
+    if (ft_NumberIsExsistInMatrix(matrix, 3, 3, NumberToSearsh))
         cout << "\nYes it is there.\n";
     else
         cout << "\nNo it is not there.\n";
