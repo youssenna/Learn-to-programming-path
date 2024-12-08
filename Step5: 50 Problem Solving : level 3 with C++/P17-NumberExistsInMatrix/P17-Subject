@@ -1,0 +1,22 @@
+Write a program to check if a given number exists in matrix 
+or not.
+
+Output:
+
+Matrix:
+ 4     9     1    
+ 9     5     4    
+ 5     9     9    
+
+Enter the number to look for in matrix:
+
+Input: 9
+
+Output:
+
+Yes it is there.
+
+else if
+Input: 56
+
+No it is not there.
