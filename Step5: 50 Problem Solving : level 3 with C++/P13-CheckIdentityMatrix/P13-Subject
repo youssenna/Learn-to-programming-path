@@ -1,0 +1,19 @@
+Write a program to check if the  matrix is identity or not.
+
+Output:
+
+
+Matrix:
+ 1     0     0    
+ 0     1     0    
+ 0     0     1    
+Yes: matrixes is identity.
+
+
+Output:
+
+Matrix:
+ 1     8    10    
+ 7     8     1    
+ 2     8     9    
+No: matrixes is not identity.
