@@ -1,0 +1,19 @@
+Write a program to check if the  matrix is scalar or not.
+
+Output:
+
+
+Matrix:
+ 3     0     0    
+ 0     3     0    
+ 0     0     3    
+Yes: matrixes is scalar.
+
+
+Output:
+
+Matrix:
+ 3     0     0    
+ 0     2     0    
+ 0     0     3   
+No: matrixes is not scalar.
