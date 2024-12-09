@@ -1,0 +1,23 @@
+write programe to check it the matrix is Palindrome or not.
+
+Output:
+
+Matrix:
+
+1     2     1    
+5     5     5    
+7     3     7    
+
+Yes: Matrix is Palindrome
+
+or:
+
+Output:
+
+Matrix:
+
+1     2     12    
+5     5     5    
+7     3     7    
+
+No: Matrix is not Palindrome
