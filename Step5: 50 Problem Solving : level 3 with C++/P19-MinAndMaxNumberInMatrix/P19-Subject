@@ -1,0 +1,13 @@
+Write a program to print the Minimum and Maximum Number 
+in Matrix
+
+Output:
+
+Matrix:
+43    56    86    
+ 7    22    59    
+17    46    92    
+
+Minimum Number is: 7
+
+Max Number is: 92
