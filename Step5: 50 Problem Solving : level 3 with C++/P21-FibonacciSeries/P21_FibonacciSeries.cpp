@@ -18,7 +18,7 @@ void ft_PrintFibonacciSeriseUsingLoop(short index) {
 }
 
 int main() {
-    int array[10];
+
     ft_PrintFibonacciSeriseUsingLoop(100);
     cout << endl;
 
