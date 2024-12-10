@@ -1,0 +1,16 @@
+Write a program to read a string then print the first letter of each word in that string
+
+Output:
+
+please enter your string?
+hi i am Youssef Ennajar From Moroco
+
+
+First letter of this string:
+h
+i
+a
+Y
+E
+F
+M
