@@ -1,0 +1,11 @@
+Write a program to read a string then Uppercase the first letter
+of each word in that string
+
+Output:
+
+please enter your string?
+Hello i am youssef ennajar from morocoo
+
+
+String after conversion:
+Hello I Am Youssef Ennajar from Morocoo
