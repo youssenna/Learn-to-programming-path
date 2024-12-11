@@ -1,0 +1,12 @@
+Write a program to read a string and read a character then
+count the character in that string
+
+Output:
+
+please enter your string?
+youssef ennajar a aaaaaaa a 
+
+please enter a character?
+a
+
+Letter 'a' Count = 11
