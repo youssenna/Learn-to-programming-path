@@ -1,0 +1,11 @@
+Write a program to read a string then count small/capital letter
+in that string
+
+Output:
+
+please enter your string?
+Hello I Am Youssef ENNAjAR
+
+String length = 26
+Capital Letter Count = 10
+Small Letter Count = 12
