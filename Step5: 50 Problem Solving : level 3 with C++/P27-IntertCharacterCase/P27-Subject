@@ -1,0 +1,8 @@
+Write a program to read a character then invert it's case
+and print it.
+
+please enter a character?
+A
+
+char after inverting case:
+a
