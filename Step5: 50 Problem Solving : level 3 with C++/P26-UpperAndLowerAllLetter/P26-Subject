@@ -1,0 +1,14 @@
+Write a program to read a string then upper all letters, then
+lower all letter, and print them.
+
+Output:
+
+please enter your string?
+dlhfd d HHKF lkdhf  LJKSD ;'sdaj
+
+
+String after upper:
+DLHFD D HHKF LKDHF  LJKSD ;'SDAJ
+
+String after Lower:
+dlhfd d hhkf lkdhf  ljksd ;'sdaj
