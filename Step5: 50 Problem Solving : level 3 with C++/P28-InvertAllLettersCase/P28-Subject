@@ -1,0 +1,9 @@
+Write a program to read a string then invert it's case
+and print it.
+
+please enter your string?
+hello I am Youssef Ennajar 
+
+
+char after inverting all letterscase:
+HELLO i AM yOUSSEF eNNAJAR
