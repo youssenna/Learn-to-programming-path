@@ -1,0 +1,9 @@
+Write a program to read a string then print all vowels in that
+string (vowels are: a, e, i, o, u)
+
+Output:
+
+please enter your string?
+Hi I Am youssef Ennajar
+
+Vowels in string are: i I       A       o       u       e       E       a       a
