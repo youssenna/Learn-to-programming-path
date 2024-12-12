@@ -1,0 +1,16 @@
+Write a program to read a string and read a character then count the character
+in that string (Match case or Not)
+
+Output:
+
+<< please enter your string?
+
+>> Hello I Am youssef Ennagar
+
+<< please enter a character?
+>> a
+
+Output:
+
+Letter 'a' Count = 2
+Letter 'a' or 'A' Count = 3
