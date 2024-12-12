@@ -1,0 +1,9 @@
+Write a program to read a character then count all vowels in that
+string (vowels are: a, e, i, o, u)
+
+Output:
+
+please enter your string?
+Hi I am Yousef Ennajar
+
+Number of vowels is: 9
