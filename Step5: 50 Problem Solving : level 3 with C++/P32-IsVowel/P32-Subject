@@ -1,0 +1,9 @@
+Write a program to read a character the check if it is a vowel
+or not (vowels are: a, e, i, o, u)
+
+Output:
+
+<< please enter a character?
+>> a
+
+Yes Letter 'a' is vowel
