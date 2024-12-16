@@ -1,0 +1,15 @@
+Write a program to read a string then print each word in that
+string.
+
+Output:
+
+> please enter your string?
+hi I am youssef     ennajar
+
+Your string words are:
+
+hi
+I
+am
+youssef
+ennajar
