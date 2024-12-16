@@ -1,0 +1,9 @@
+Write a program to read a string than count each word in
+that string
+
+Output:
+
+please enter your string?
+hi i am youssef      ennajar
+
+Your String words number is: 5
