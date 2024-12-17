@@ -1,0 +1,9 @@
+write a program to read a string then trim left, rihgt, all
+
+Output:
+
+string      = '      Hi Iam youssef      '
+
+TrimLeft    = 'Hi Iam youssef      '
+TrimRight   = '      Hi Iam youssef'
+Trim        = 'Hi Iam youssef'
