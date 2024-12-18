@@ -1,0 +1,12 @@
+write a program to reaplace word in string
+
+Output:
+original string
+Hello I am youssef ennajar from moroco .
+
+enter a word you want to chang it:> moroco
+enter a word you want to change to:> morooco habibi
+
+
+string after reversing words:
+Hello I am youssef ennajar from morooco habibi .
