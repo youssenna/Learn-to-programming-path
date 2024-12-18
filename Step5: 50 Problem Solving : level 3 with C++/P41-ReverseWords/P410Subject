@@ -1,0 +1,10 @@
+write a program to read a string and reverse its words.
+
+Output:
+
+please enter your string?
+Hi I Am youssef ennajaar
+
+
+string after reversing words:
+ennajaar youssef Am I Hi
