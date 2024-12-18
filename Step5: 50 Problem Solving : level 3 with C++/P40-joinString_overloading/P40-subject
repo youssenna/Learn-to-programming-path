@@ -1,0 +1,11 @@
+write a program to join vector of string into a one string
+with separators
+
+Output:
+
+Vector after join
+hi...  hello...  hamid
+
+
+Vector after join 
+Hello...  Iam...  Youssef
