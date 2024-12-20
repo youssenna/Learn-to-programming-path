@@ -1,0 +1,9 @@
+write a program to romove all punctuations from a string
+
+Output:
+
+Original string
+Hi, I ' am Youssef @ (ennajar) from {morocoo}
+
+string after remove punctuations
+Hi I  am Youssef  ennajar from morocoo
