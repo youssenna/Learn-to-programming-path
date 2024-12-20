@@ -1,0 +1,14 @@
+write a program to convert line data to record and print it:
+
+Output:
+
+Line Record is:
+PB82298#//#D137323275#//#Youssef#//#0710018456#//#192.000000
+
+The Following is the extracted client record:
+
+Acoount Number : PB82298
+PIN code       : D137323275
+Name           : Youssef
+Phone Number   : 0710018456
+Acount balance : 192
