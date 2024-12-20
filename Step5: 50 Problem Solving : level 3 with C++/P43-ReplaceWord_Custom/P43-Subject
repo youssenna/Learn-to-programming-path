@@ -1,0 +1,18 @@
+write a program to reaplace word in string using custom function
+
+Output:
+
+Original string
+Hello I Youssef I I am YouSSef ennajar youssef _from moroco .
+
+enter a word you want to chang it: youssef
+enter a word you want to change to: ennajar
+
+
+Replace with match case:
+Hello I Youssef I I am YouSSef ennajar ennajar _from moroco .
+
+
+
+Replace with dont match case:
+Hello I ennajar I I am ennajar ennajar ennajar _from moroco .
