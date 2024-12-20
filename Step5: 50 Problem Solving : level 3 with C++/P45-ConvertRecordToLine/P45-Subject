@@ -3,3 +3,14 @@ it to one line:
 
 Output:
 
+Please Enter Client Data:
+
+Enter Acoount Number? hi
+Enter PIN code? 12
+Enter Name? hi
+Enter Phone Number? 09
+Enter Acount balance? 192
+
+
+Client Record for saving is:
+hi#//#12#//#hi#//#09#//#192.000000
