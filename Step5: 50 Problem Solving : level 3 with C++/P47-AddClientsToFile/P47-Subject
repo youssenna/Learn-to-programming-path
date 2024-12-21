@@ -1,0 +1,14 @@
+write a program to ask you to enter clients and save them to 
+file:
+
+output:
+
+Adding New Clients:
+
+Enter Acoount Number? P643434
+Enter PIN code? Ou34934@hgfe
+Enter Name? youssef ennajar
+Enter Phone Number? 07100018456
+Enter Acount balance? 10000000
+
+Client Added Succcessfully, Do You want to add more clients? (Y/N)? y
