@@ -1,0 +1,20 @@
+write a profram to find client by Acoount Number and print
+it to the screen.
+
+Output:
+
+cas 1|\
+
+Please enter account number? P234423
+
+The following are the client detaile.
+
+Acoount Number : P234423
+PIN code       : 0293342
+Name           : Youssef enagar
+Phone Number   : 0293844322
+Acount balance : 8378342
+
+cas 2|\
+Please enter account number? 9898
+Client With Account Number(9898) Not found !
