@@ -5,7 +5,7 @@
 
 using namespace std;
 
-string ClientFileName;
+string ClientFileName = "Client.txt";
 
 struct st_ClientInfo {
     string AccountNumber, PINCode, Name, PhoneNumber, Balance;
@@ -70,5 +70,5 @@ int main() {
     string AcountNumber;
     cout << "\nPlease enter account number? ";
     cin >> AcountNumber;
-    ft_FindClientByAccountNumber("Client.txt", AcountNumber);
+    ft_FindClientByAccountNumber(ClientFileName, AcountNumber);
 }
