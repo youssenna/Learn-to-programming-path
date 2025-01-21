@@ -1,0 +1,26 @@
+write a profram to delete client by Acoount Number.
+
+Output:
+
+cas 1|\
+
+Please enter account number? P234423
+
+The following are the client detaile.
+
+Acoount Number : P234423
+PIN code       : 0293342
+Name           : Youssef enagar
+Phone Number   : 0293844322
+Acount balance : 8378342
+
+
+are you sure you want to delete this client? y/n : >> y
+
+
+Client deleted successfuly
+                                 
+
+cas 2|\
+Please enter account number? 9898
+Client With Account Number  (9898) Not found !
