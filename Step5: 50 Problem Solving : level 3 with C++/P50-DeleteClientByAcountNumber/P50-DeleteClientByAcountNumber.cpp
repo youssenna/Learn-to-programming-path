@@ -24,7 +24,7 @@ string ft_ReadAcountNumber() {
     return str;
 }
 
-vector<string> ft_SplitStringLine(string str, string delim = "#//#") {
+vector<string> ft_SplitStringLine(string str, string delim = "/##/") {
     string word;
     vector<string> vstr;
     int pos;
@@ -134,7 +134,7 @@ string ft_JoinString(vector<string> vstr, string sep) {
 
 string ft_ConvertRecordToLine(st_ClientInfo ClientInfo) {
     vector<string> vClient = ft_ConvertStructToVector(ClientInfo);
-    string line = ft_JoinString(vClient, "#//#");
+    string line = ft_JoinString(vClient, "/##/");
     return line;
 }
 
