@@ -183,5 +183,9 @@ int main() {
     AcountNumber = ft_ReadAcountNumber();
 
     ft_DeleteClientByAcountNumber(AcountNumber, vClients);
+<<<<<<< HEAD
     return 0;
 }
+=======
+}
+>>>>>>> 34cdb472a78d52df42de8fb5df191f7e1c69a9ef
