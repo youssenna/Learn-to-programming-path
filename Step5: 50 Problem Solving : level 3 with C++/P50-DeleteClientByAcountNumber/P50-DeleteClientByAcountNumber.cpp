@@ -129,7 +129,7 @@ string ft_JoinString(vector<string> vstr, string sep) {
         st = st + sep;
         str +=  st;        
     }
-    return str;
+    return str.substr(0, str.length() - sep.length());
 }
 
 string ft_ConvertRecordToLine(st_ClientInfo ClientInfo) {
@@ -165,12 +165,12 @@ void ft_DeleteClientByAcountNumber(string AcountNumber, vector<st_ClientInfo> &v
         if (ConfermDeleting == 'Y' || ConfermDeleting == 'y') {
             ft_MarkClientToDeleteByAcountNumber(AcountNumber, vClients);
             ft_SaveClientToFile(ClientsFileName, vClients);
-        }
 
         // refresh clients
         vClients = ft_LoadClientsFromFile(ClientsFileName);
 
         cout << "\nClient deleted sucssefuly\n";
+        }
     }
     else cout << "Client not found it";
 }
@@ -183,4 +183,5 @@ int main() {
     AcountNumber = ft_ReadAcountNumber();
 
     ft_DeleteClientByAcountNumber(AcountNumber, vClients);
+    return 0;
 }
