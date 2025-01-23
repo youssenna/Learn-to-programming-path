@@ -1,0 +1,32 @@
+Write a programe to update client by account number
+
+output:
+
+cas 1:
+
+Please enter account number? A1
+
+The following are the client detaile.
+
+
+
+Acoount Number : A1
+PIN code       : 332df
+Name           : youssef
+Phone Number   : 0938472
+Acount balance : 90394
+
+Are You sure you want to ubdate this client? (y/n) y
+
+Enter PIN code? !wkqe
+Enter Name? ahmad
+Enter Phone Number? 0939837
+Enter Acount balance? 983289
+
+Client updated sucssefuly
+      
+
+cas 2:
+
+Please enter account number? A
+Client A not found it                                         
