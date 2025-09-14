@@ -48,7 +48,7 @@ Each step contains multiple projects. Below are some examples:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/youssef43a/Learn-to-programming-path.git
+   git clone https://github.com/youssenna/Learn-to-programming-path.git
    ```
 2. Navigate to the desired step and project directory.
 3. Compile and run the C++ files using your preferred compiler.
